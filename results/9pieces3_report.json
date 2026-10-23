@@ -1,0 +1,482 @@
+{
+  "success": true,
+  "image_name": "9pieces3.png",
+  "piece_count": 9,
+  "roles_summary": {
+    "corners": 4,
+    "borders": 4,
+    "interiors": 1
+  },
+  "pieces": [
+    {
+      "id": 0,
+      "role": "BORDER",
+      "bbox": [
+        1065,
+        149,
+        208,
+        261
+      ],
+      "types": {
+        "TOP": "TAB",
+        "RIGHT": "TAB",
+        "BOTTOM": "TAB",
+        "LEFT": "FLAT"
+      },
+      "deviations": {
+        "TOP": {
+          "max_pos": 35.91015571388016,
+          "max_neg": -17.902039868137763,
+          "mean": -4.518577002042909
+        },
+        "RIGHT": {
+          "max_pos": 36.81230948531779,
+          "max_neg": -20.563857878579256,
+          "mean": -5.227258000536495
+        },
+        "BOTTOM": {
+          "max_pos": 36.211382913121575,
+          "max_neg": -19.544688347142845,
+          "mean": -5.63553815934981
+        },
+        "LEFT": {
+          "max_pos": 0.14226582521270675,
+          "max_neg": -2.855558846046957,
+          "mean": 0.006619485817480087
+        }
+      }
+    },
+    {
+      "id": 1,
+      "role": "INTERIOR",
+      "bbox": [
+        75,
+        280,
+        161,
+        265
+      ],
+      "types": {
+        "TOP": "GAP",
+        "RIGHT": "TAB",
+        "BOTTOM": "TAB",
+        "LEFT": "GAP"
+      },
+      "deviations": {
+        "TOP": {
+          "max_pos": 15.126460580332056,
+          "max_neg": -17.086665858406043,
+          "mean": 1.2189261961876996
+        },
+        "RIGHT": {
+          "max_pos": 35.207843351488,
+          "max_neg": -34.70308986410149,
+          "mean": 1.3202002283112904
+        },
+        "BOTTOM": {
+          "max_pos": 36.67289605228547,
+          "max_neg": -17.331514466061606,
+          "mean": -4.839022891274863
+        },
+        "LEFT": {
+          "max_pos": 18.118700538944886,
+          "max_neg": -36.94194464636241,
+          "mean": 4.684041912352392
+        }
+      }
+    },
+    {
+      "id": 2,
+      "role": "CORNER",
+      "bbox": [
+        532,
+        77,
+        204,
+        157
+      ],
+      "types": {
+        "TOP": "FLAT",
+        "RIGHT": "TAB",
+        "BOTTOM": "GAP",
+        "LEFT": "FLAT"
+      },
+      "deviations": {
+        "TOP": {
+          "max_pos": 0.0,
+          "max_neg": 0.0,
+          "mean": 0.0
+        },
+        "RIGHT": {
+          "max_pos": 35.249820314823154,
+          "max_neg": -16.475389329604585,
+          "mean": -4.360346686718067
+        },
+        "BOTTOM": {
+          "max_pos": 17.940439751196436,
+          "max_neg": -36.08372319061916,
+          "mean": 4.36761784784079
+        },
+        "LEFT": {
+          "max_pos": 3.3876325922221895e-06,
+          "max_neg": -3.3876325922221895e-06,
+          "mean": -3.3034284942917714e-22
+        }
+      }
+    },
+    {
+      "id": 3,
+      "role": "CORNER",
+      "bbox": [
+        317,
+        320,
+        155,
+        205
+      ],
+      "types": {
+        "TOP": "FLAT",
+        "RIGHT": "FLAT",
+        "BOTTOM": "TAB",
+        "LEFT": "GAP"
+      },
+      "deviations": {
+        "TOP": {
+          "max_pos": 0.0,
+          "max_neg": 0.0,
+          "mean": 0.0
+        },
+        "RIGHT": {
+          "max_pos": 3.3657768980788205e-06,
+          "max_neg": -3.3657768980788205e-06,
+          "mean": 2.541098841762901e-22
+        },
+        "BOTTOM": {
+          "max_pos": 34.68487374653376,
+          "max_neg": -17.307708352058285,
+          "mean": -4.091439689342991
+        },
+        "LEFT": {
+          "max_pos": 17.894399738478796,
+          "max_neg": -36.387610446209905,
+          "mean": 5.204970053935702
+        }
+      }
+    },
+    {
+      "id": 4,
+      "role": "CORNER",
+      "bbox": [
+        70,
+        30,
+        156,
+        201
+      ],
+      "types": {
+        "TOP": "TAB",
+        "RIGHT": "FLAT",
+        "BOTTOM": "FLAT",
+        "LEFT": "GAP"
+      },
+      "deviations": {
+        "TOP": {
+          "max_pos": 34.90974996733969,
+          "max_neg": -17.23650076938571,
+          "mean": -3.807069563845938
+        },
+        "RIGHT": {
+          "max_pos": 3.3657768980788205e-06,
+          "max_neg": -3.3657768980788205e-06,
+          "mean": 2.541098841762901e-22
+        },
+        "BOTTOM": {
+          "max_pos": 0.0,
+          "max_neg": 0.0,
+          "mean": 0.0
+        },
+        "LEFT": {
+          "max_pos": 19.295367352453127,
+          "max_neg": -35.99483724627927,
+          "mean": 4.326891833896188
+        }
+      }
+    },
+    {
+      "id": 5,
+      "role": "BORDER",
+      "bbox": [
+        252,
+        72,
+        208,
+        162
+      ],
+      "types": {
+        "TOP": "GAP",
+        "RIGHT": "FLAT",
+        "BOTTOM": "GAP",
+        "LEFT": "TAB"
+      },
+      "deviations": {
+        "TOP": {
+          "max_pos": 17.229822881294695,
+          "max_neg": -34.67859721918859,
+          "mean": 4.116181611081248
+        },
+        "RIGHT": {
+          "max_pos": 3.3876325922221895e-06,
+          "max_neg": -3.3876325922221895e-06,
+          "mean": 3.3034284942917714e-22
+        },
+        "BOTTOM": {
+          "max_pos": 17.382069134534117,
+          "max_neg": -34.896517065941154,
+          "mean": 4.004086963482781
+        },
+        "LEFT": {
+          "max_pos": 35.769006494534786,
+          "max_neg": -22.286852569044868,
+          "mean": -4.601821324708825
+        }
+      }
+    },
+    {
+      "id": 6,
+      "role": "CORNER",
+      "bbox": [
+        787,
+        72,
+        202,
+        155
+      ],
+      "types": {
+        "TOP": "GAP",
+        "RIGHT": "TAB",
+        "BOTTOM": "FLAT",
+        "LEFT": "FLAT"
+      },
+      "deviations": {
+        "TOP": {
+          "max_pos": 20.27882329342856,
+          "max_neg": -36.39927672377122,
+          "mean": 5.1938724835159835
+        },
+        "RIGHT": {
+          "max_pos": 35.488407620850936,
+          "max_neg": -17.648136815207938,
+          "mean": -4.167667346325716
+        },
+        "BOTTOM": {
+          "max_pos": 0.0,
+          "max_neg": 0.0,
+          "mean": 0.0
+        },
+        "LEFT": {
+          "max_pos": 3.3657768980788205e-06,
+          "max_neg": -3.3657768980788205e-06,
+          "mean": -2.541098841762901e-22
+        }
+      }
+    },
+    {
+      "id": 7,
+      "role": "BORDER",
+      "bbox": [
+        816,
+        302,
+        210,
+        155
+      ],
+      "types": {
+        "TOP": "GAP",
+        "RIGHT": "TAB",
+        "BOTTOM": "FLAT",
+        "LEFT": "GAP"
+      },
+      "deviations": {
+        "TOP": {
+          "max_pos": 17.250905545169758,
+          "max_neg": -36.2936955451637,
+          "mean": 4.5647252657068496
+        },
+        "RIGHT": {
+          "max_pos": 35.53910110555499,
+          "max_neg": -18.995363885361197,
+          "mean": -4.364561446625126
+        },
+        "BOTTOM": {
+          "max_pos": 0.0,
+          "max_neg": 0.0,
+          "mean": 0.0
+        },
+        "LEFT": {
+          "max_pos": 17.329586108969888,
+          "max_neg": -35.83109584546372,
+          "mean": 3.7214659969310486
+        }
+      }
+    },
+    {
+      "id": 8,
+      "role": "BORDER",
+      "bbox": [
+        554,
+        320,
+        208,
+        160
+      ],
+      "types": {
+        "TOP": "FLAT",
+        "RIGHT": "TAB",
+        "BOTTOM": "GAP",
+        "LEFT": "GAP"
+      },
+      "deviations": {
+        "TOP": {
+          "max_pos": 0.0,
+          "max_neg": 0.0,
+          "mean": 0.0
+        },
+        "RIGHT": {
+          "max_pos": 36.26628980173763,
+          "max_neg": -17.972027200255866,
+          "mean": -5.196743006998409
+        },
+        "BOTTOM": {
+          "max_pos": 22.786259150870137,
+          "max_neg": -37.624821661583944,
+          "mean": 5.409974096146047
+        },
+        "LEFT": {
+          "max_pos": 16.197913662604297,
+          "max_neg": -35.67290714745552,
+          "mean": 3.920377689422701
+        }
+      }
+    }
+  ],
+  "solver": {
+    "success": true,
+    "rows": 3,
+    "cols": 3,
+    "total_cost": 3180.42,
+    "confidence": 0.124,
+    "grid": [
+      [
+        {
+          "piece_id": 3,
+          "rotation_deg": 270,
+          "row": 0,
+          "col": 0,
+          "types": {
+            "TOP": "FLAT",
+            "RIGHT": "TAB",
+            "BOTTOM": "GAP",
+            "LEFT": "FLAT"
+          }
+        },
+        {
+          "piece_id": 8,
+          "rotation_deg": 0,
+          "row": 0,
+          "col": 1,
+          "types": {
+            "TOP": "FLAT",
+            "RIGHT": "TAB",
+            "BOTTOM": "GAP",
+            "LEFT": "GAP"
+          }
+        },
+        {
+          "piece_id": 2,
+          "rotation_deg": 90,
+          "row": 0,
+          "col": 2,
+          "types": {
+            "TOP": "FLAT",
+            "RIGHT": "FLAT",
+            "BOTTOM": "TAB",
+            "LEFT": "GAP"
+          }
+        }
+      ],
+      [
+        {
+          "piece_id": 0,
+          "rotation_deg": 0,
+          "row": 1,
+          "col": 0,
+          "types": {
+            "TOP": "TAB",
+            "RIGHT": "TAB",
+            "BOTTOM": "TAB",
+            "LEFT": "FLAT"
+          }
+        },
+        {
+          "piece_id": 1,
+          "rotation_deg": 0,
+          "row": 1,
+          "col": 1,
+          "types": {
+            "TOP": "GAP",
+            "RIGHT": "TAB",
+            "BOTTOM": "TAB",
+            "LEFT": "GAP"
+          }
+        },
+        {
+          "piece_id": 5,
+          "rotation_deg": 0,
+          "row": 1,
+          "col": 2,
+          "types": {
+            "TOP": "GAP",
+            "RIGHT": "FLAT",
+            "BOTTOM": "GAP",
+            "LEFT": "TAB"
+          }
+        }
+      ],
+      [
+        {
+          "piece_id": 4,
+          "rotation_deg": 90,
+          "row": 2,
+          "col": 0,
+          "types": {
+            "TOP": "GAP",
+            "RIGHT": "TAB",
+            "BOTTOM": "FLAT",
+            "LEFT": "FLAT"
+          }
+        },
+        {
+          "piece_id": 7,
+          "rotation_deg": 0,
+          "row": 2,
+          "col": 1,
+          "types": {
+            "TOP": "GAP",
+            "RIGHT": "TAB",
+            "BOTTOM": "FLAT",
+            "LEFT": "GAP"
+          }
+        },
+        {
+          "piece_id": 6,
+          "rotation_deg": 270,
+          "row": 2,
+          "col": 2,
+          "types": {
+            "TOP": "TAB",
+            "RIGHT": "FLAT",
+            "BOTTOM": "FLAT",
+            "LEFT": "GAP"
+          }
+        }
+      ]
+    ]
+  },
+  "artifacts": {
+    "montage_path": "results\\9pieces3_pieces.png",
+    "assembly_path": "results\\9pieces3_assembly.png"
+  },
+  "elapsed_seconds": 2.463
+}
